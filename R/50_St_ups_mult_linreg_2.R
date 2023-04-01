@@ -44,7 +44,7 @@ summary(regressor)
 regressor = lm(formula = Profit ~ R.D.Spend, 
                data = dataset)
 summary(regressor)
-# We have two ways to automatically implement Backwar selection
+# We have two ways to automatically implement Backward selection
 # Option 1:
 regressor_selection = step(regressor, direction = "backward")
 summary(regressor_selection)

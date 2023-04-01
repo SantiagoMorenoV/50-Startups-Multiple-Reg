@@ -13,3 +13,7 @@ You will also find an R file with the equivalent code which use is optional. Thi
 - **1.** The use of the R function **step()**.
 
 - **2.** It is a function where an algorithm for Backward Elimination has been implemented. A significance level - SL- of 5% has been pre-set (you can copy it for your projects and experiment with other SL).
+
+### Descriptive statistics, histograms, and boxplots
+
+This was not part of the main task for this project, but I have added a file in Python so you can see the descriptive statistics, histograms, and boxplots.

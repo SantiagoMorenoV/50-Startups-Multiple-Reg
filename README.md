@@ -8,7 +8,11 @@ This was an Udemy Guided Project.
 
 ### Optional R code
 
-You will also find an R file with the equivalent code which use is optional. This R code contains three different ways to implement Backwards Elimination. The first one consist on running the different linear models so the user can compare them. The other two ones are:
+You will also find an R file with the equivalent code, which is optional. This R code contains three different ways to implement Backwards Elimination. The first one consists of running the different linear models so the user can compare them. The other two are the use of the step function and a function with a loop.
+
+I added the R code with a Google Colab R runtime. So, if you are interested in knowing how to do it, please visit this site by Fidocia Wima Adityawarman, who explains how to easily change the runtime for using R in Colab:
+
+https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497
 
 - **1.** The use of the R function **step()**.
 

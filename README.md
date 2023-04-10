@@ -1,8 +1,4 @@
-# 50 Startups 
-
-## Multiple Linear Regression 
-
-A venture capital fund wants to obtain a criterion to invest in fifty startups. Based on a dataset containing: their expenditure on R & D, administration and marketing, location (state), and profit, we will find which features are significant to these startups' profits.
+ate), and profit, we will find which features are significant to these startups' profits.
 
 This was an Udemy Guided Project.
 
@@ -16,7 +12,7 @@ You will also find an R file with the equivalent code, which is optional. This R
 
 I have also added the R code with a Google Colab R runtime. So, if you are interested in knowing how to do it, please visit this site by Fidocia Wima Adityawarman, who explains how to easily change the runtime for using R in Colab:
 
-https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497
+[How to use R in Google Colab](http://https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497 "How to use R in Google Colab")
 
 ### Descriptive statistics, histograms, and boxplots
 

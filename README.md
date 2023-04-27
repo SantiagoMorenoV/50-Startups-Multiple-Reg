@@ -1,6 +1,9 @@
-ate), and profit, we will find which features are significant to these startups' profits.
+# 50 Startups 
 
-This was an Udemy Guided Project.
+## Multiple Linear Regression 
+
+A venture capital fund wants to obtain a criterion to invest in fifty startups. Based on a dataset containing: their expenditure on R & D, administration and marketing, location (state), and profit, we will find which features are significant to these startups' profits.
+
 
 ### Optional R code
 
@@ -17,3 +20,17 @@ I have also added the R code with a Google Colab R runtime. So, if you are inter
 ### Descriptive statistics, histograms, and boxplots
 
 This was not part of the main task for this project, but I have added a file in Python so you can see the descriptive statistics, histograms, and boxplots.
+
+**Note:** If the Colab notebook is not being displayed, please copy the URL and paste it on [nbviewer](https://nbviewer.org/ "nbviewer") so you can see the code.
+
+## Usage
+
+Please note that this code is intended for educational and non-commercial use only.
+
+## Contributions
+
+Contributions to this repository are welcome. If you find a bug or have suggestions for improvement, please open an issue or submit a pull request.
+
+## Credits
+
+This project was created by **Santiago Moreno Velasquez** as part of an **Udemy Guided Project**.

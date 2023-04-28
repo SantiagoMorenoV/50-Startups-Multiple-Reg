@@ -1,6 +1,6 @@
 # 50 Startups 
 
-![Venture Capital](https://media.istockphoto.com/id/486777114/photo/venture-capital-concept-image-with-business-icons-and-copyspace.jpg?s=612x612&w=0&k=20&c=oMm-W9L2lvBgAgejZ9YR3C1ppFYFPJKZgvXgHzbSmZo=)
+![Venture Capital](https://cdn.pixabay.com/photo/2016/09/29/23/01/revenue-1704073_1280.png)
 
 ## Multiple Linear Regression 
 

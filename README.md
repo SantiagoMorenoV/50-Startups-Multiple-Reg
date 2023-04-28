@@ -1,5 +1,7 @@
 # 50 Startups 
 
+![Venture Capital](https://media.istockphoto.com/id/486777114/photo/venture-capital-concept-image-with-business-icons-and-copyspace.jpg?s=612x612&w=0&k=20&c=oMm-W9L2lvBgAgejZ9YR3C1ppFYFPJKZgvXgHzbSmZo=)
+
 ## Multiple Linear Regression 
 
 A venture capital fund wants to obtain a criterion to invest in fifty startups. Based on a dataset containing: their expenditure on R & D, administration and marketing, location (state), and profit, we will find which features are significant to these startups' profits.

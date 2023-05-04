@@ -25,7 +25,7 @@ I have also added the R code with a Google Colab R runtime. So, if you are inter
 
 This was not part of the main task for this project, but I have added a file in Python so you can see the descriptive statistics, histograms, and boxplots.
 
-**Note:** If the Colab notebook is not being displayed, please copy the URL and paste it on [nbviewer](https://nbviewer.org/ "nbviewer") so you can see the code.
+**Note:** If the Colab notebook is not being displayed, please copy the URL and paste it on [**nbviewer**](https://nbviewer.org/ "nbviewer") so you can see the code.
 
 ## Usage
 
